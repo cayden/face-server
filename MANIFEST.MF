@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/arcsoft-sdk-face-2.1.0.0.jar
+Main-Class: com.cayden.face.FaceServer
